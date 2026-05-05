@@ -1,6 +1,6 @@
 # Tugas Pemodelan Oseanografi
 # Dosen Pengampu: Dr. Aris Ismanto, S.Si., M.Si.
-# Persmanaan Difusi !-D
+# Persmanaan Difusi 1-D
 # Feby Syarief Al A`raaf` | 26050124130087 | Oseanografi C
 
 import numpy as np
